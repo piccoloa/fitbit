@@ -1,2 +1,0 @@
-don't send this to remote
-testignore.txt
